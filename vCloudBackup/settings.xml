@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<settings>
+	<system>
+		<organization>GSA-OCSIT-WEBSITES</organization>
+		<catalog>GSA-OCSIT-Catalog</catalog>
+	</system>
+	<vCloudServers>
+		<server name="phoenix" id="1">
+			<url>https://site1vms.cloud.cgifederal.com/</url>
+		</server>
+		<server name="philadelphia" id="2">
+			<url>https://site2vms.cloud.cgifederal.com/</url>
+		</server>			
+	</vCloudServers>
+</settings>
